@@ -1,0 +1,19 @@
+Outcome,Derivation
+Patient survival at 1 year,"Direct counts for small series; KM-derived integer survivors for Gil-Vernet (94.1 % x 123 ~ 116), Musquera (90.8 % x 84 ~ 76), Medina (84.9 % x 21 ~ 18)."
+Graft survival at 1 year,Same approach. Gil-Vernet 109; Musquera 73; Medina 18; Vigués 14/16.
+DGF,7 of 9 series. Excluded: Gil-Vernet and Musquera. Vigués denominator 15.
+Transplantectomy,Gil-Vernet 6 (5 rejection + 1 urological). Musquera 5. Medina 3 (per paper text; extraction CSV mistakenly recorded 2). Vigués 1.
+Vascular complications (overall),"Per-patient count of recipients with at least one vascular event of any kind (stenosis, thrombosis, severe vascular rejection, intra-op low flow / venous return failure, post-op bleeding at a vascular anastomosis). De Gracia 5/6 = 5 patients with at least one event (Cases 1, 2, 3, 5, 6 all had stenosis; Cases 3 and 5 also bled but each contributes once to the per-patient count)."
+Arterial stenosis,Gil-Vernet 4 per Musquera 2010 Table 2 update. De Gracia 5/6 surveillance-driven outlier.
+Arterial thrombosis,"Paduch 1 (intra-op). Musquera 4, Medina 2, Vigués 1."
+Venous thrombosis,"Single event in Contemporary HdC (1/84), graft rupture, transplantectomy."
+Urinary complications (overall),Sum of urinary fistula + ureteric obstruction + graft lithiasis per study. AUR and UTI (Medina) EXCLUDED for consistency.
+Urinary fistula,Gil-Vernet 8 per Musquera 2010 update. Musquera 8. Vigués 2. Medina 1.
+Ureteric obstruction,Musquera 2. De Gracia 1 (obstructive renal failure after pig-tail removal).
+Pancreatic fistula,"Gil-Vernet 1 (fatal post-op in a diabetic with simultaneous pancreas-kidney transplant; 1989 paper). Medina 1 (late post-op, Clavien IIIb). Musquera Contemporary explicitly reports zero."
+Haemorrhagic complications,"Post-operative anastomotic/graft bleeding, per-patient. De Gracia 2/6 = Case 3 fatal anticoag-related graft bleed + Case 5 reoperation for spleno-renal anastomosis bleed. Chan 1/3 = Case 3 abdominal haematoma requiring 4-unit transfusion (Clavien II). Medina 1/21 = early-postop bleeding (Clavien II, conservative). NOTE: bleeding events are also included within the composite vascular-complications outcome; separate pooling is dominated by two small-sample series and should be interpreted with caution."
+Urolithiasis,Gil-Vernet 2/123 (both ESWL). Musquera Contemporary 1/84 (open nephrolithotomy). All other series report zero. Both Hospital de Clínic counts from Musquera 2010 Table 2.
+Wound infection (SSI),"Chan 1/3 = Case 1 left flank wound infection (Clavien II, antibiotics). De Gracia 2/6 = Cases 1 and 4 (antibiotics; Case 1 progressed to peritonitis). Medina 1/21 = early SSI (Clavien II). Chan Case 2 wound dehiscence (Clavien IIIa) is a distinct mechanical complication and NOT counted here."
+Peri-graft fluid collection,"Medina 1/21 = early post-op fluid collection, Clavien II, conservative. All other series report zero."
+Lymphocele,"Medina 1/21 = late (>30 d) obstructive lymphocele, Clavien IIIa, percutaneous drainage. Both Hospital de Clínic cohorts explicitly report zero lymphocele."
+Excluded from current outcome set,"Acute urinary retention (Medina 2/21), urinary tract infection (Medina 2/21), DVT (De Gracia 1/6), diverticulitis (De Gracia 1/6), decompensated heart failure (Medina 1/21), GI bleeding (Medina 1/21), ventilator-associated pneumonia (Medina 1/21), acute rejection (Medina 1/21), C. difficile diarrhoea (Medina 1/21), septic shock from pyelonephritis (Medina 1/21), wound dehiscence (Chan 1/3). Each was reported in only one or two series and would not yield meaningful pooled estimates."

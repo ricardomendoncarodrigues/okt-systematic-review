@@ -1,0 +1,169 @@
+outcome,omitted_study,pooled_pct,ci_lo_pct,ci_hi_pct,I2_pct
+Patient survival at 1 year,(none — pooled with all studies),92.5,87.8,95.4,0
+Patient survival at 1 year,Gil-Vernet (Historical HdC),90.8,83.3,95.2,0
+Patient survival at 1 year,Paduch,92.3,87.4,95.4,0
+Patient survival at 1 year,Rodrigues,92.3,87.4,95.4,0
+Patient survival at 1 year,De Gracia,92.7,87.8,95.7,0
+Patient survival at 1 year,Musquera (Contemporary HdC),93.4,87.4,96.6,0
+Patient survival at 1 year,Chan,92.4,87.5,95.4,0
+Patient survival at 1 year,Gutierrez-Zurimendi,92.4,87.5,95.4,0
+Patient survival at 1 year,Medina,93,88,96,0
+Patient survival at 1 year,Vigues,92.4,87.3,95.5,0
+Graft survival at 1 year,(none — pooled with all studies),88.3,82.9,92.1,0
+Graft survival at 1 year,Gil-Vernet (Historical HdC),88,80,93.1,0
+Graft survival at 1 year,Paduch,88.1,82.5,92.1,0
+Graft survival at 1 year,Rodrigues,88.1,82.5,92.1,0
+Graft survival at 1 year,De Gracia,88.4,82.8,92.4,0
+Graft survival at 1 year,Musquera (Contemporary HdC),89,82.1,93.4,0
+Graft survival at 1 year,Chan,88.2,82.6,92.1,0
+Graft survival at 1 year,Gutierrez-Zurimendi,88.2,82.6,92.1,0
+Graft survival at 1 year,Medina,88.5,82.8,92.5,0
+Graft survival at 1 year,Vigues,88.4,82.6,92.4,0
+Delayed graft function,(none — pooled with all studies),26.3,14.6,42.7,0
+Delayed graft function,Paduch,26.9,14.2,45.1,0
+Delayed graft function,Rodrigues,28.3,15.3,46.4,0
+Delayed graft function,De Gracia,25.5,13,43.9,0
+Delayed graft function,Chan,25.9,13.6,43.7,0
+Delayed graft function,Gutierrez-Zurimendi,27.8,15,45.6,0
+Delayed graft function,Medina,19.4,7.6,41.6,0
+Delayed graft function,Vigues,28.6,14.3,49,0
+Transplantectomy,(none — pooled with all studies),5.7,3.1,10,0
+Transplantectomy,Gil-Vernet (Historical HdC),6.3,2.9,13.3,0
+Transplantectomy,Paduch,5.8,3.2,10.3,0
+Transplantectomy,Rodrigues,5.7,3.1,10.3,0
+Transplantectomy,De Gracia,5.8,3.2,10.3,0
+Transplantectomy,Musquera (Contemporary HdC),5.5,2.6,11.2,0
+Transplantectomy,Chan,5.7,3.1,10.2,0
+Transplantectomy,Gutierrez-Zurimendi,5.7,3.1,10.2,0
+Transplantectomy,Medina,4.9,2.5,9.4,0
+Transplantectomy,Vigues,5.6,3,10.2,0
+Vascular complications (overall),(none — pooled with all studies),14.4,5.1,34.5,59
+Vascular complications (overall),Gil-Vernet (Historical HdC),18.1,6.3,42,32
+Vascular complications (overall),Paduch,14,4.2,37.7,64
+Vascular complications (overall),Rodrigues,15.9,5.4,38.5,64
+Vascular complications (overall),De Gracia,10.3,5.2,19.5,25
+Vascular complications (overall),Musquera (Contemporary HdC),13.9,3.6,41.1,63
+Vascular complications (overall),Chan,13.3,4.1,35.6,63
+Vascular complications (overall),Gutierrez-Zurimendi,15.6,5.2,38.1,64
+Vascular complications (overall),Medina,13.5,3.6,39.4,63
+Vascular complications (overall),Vigues,16.1,5.1,40.7,63
+Arterial stenosis,(none — pooled with all studies),1.6,0.1,33.1,56
+Arterial stenosis,Gil-Vernet (Historical HdC),0.6,0,68.1,55
+Arterial stenosis,Paduch,2,0.1,37.8,62
+Arterial stenosis,Rodrigues,1.9,0.1,37.5,62
+Arterial stenosis,De Gracia,2.7,1.1,6.4,0
+Arterial stenosis,Musquera (Contemporary HdC),0.6,0,67.7,59
+Arterial stenosis,Chan,1.9,0.1,37.1,62
+Arterial stenosis,Gutierrez-Zurimendi,1.9,0.1,37.1,62
+Arterial stenosis,Medina,2.6,0.1,39.3,62
+Arterial stenosis,Vigues,2.4,0.1,39.1,62
+Arterial thrombosis,(none — pooled with all studies),3,0.8,10.6,0
+Arterial thrombosis,Gil-Vernet (Historical HdC),5.6,2.5,12.4,0
+Arterial thrombosis,Paduch,2.4,0.5,10.5,0
+Arterial thrombosis,Rodrigues,3.1,0.8,11.5,0
+Arterial thrombosis,De Gracia,3.2,0.8,11.7,0
+Arterial thrombosis,Musquera (Contemporary HdC),2.3,0.3,15.2,0
+Arterial thrombosis,Chan,3.1,0.8,11.4,0
+Arterial thrombosis,Gutierrez-Zurimendi,3.1,0.8,11.4,0
+Arterial thrombosis,Medina,2.2,0.4,11.4,0
+Arterial thrombosis,Vigues,2.5,0.5,13.1,0
+Venous thrombosis,(none — pooled with all studies),0.4,0,3.7,0
+Venous thrombosis,Gil-Vernet (Historical HdC),0.7,0.1,7.1,0
+Venous thrombosis,Paduch,0.4,0,4,0
+Venous thrombosis,Rodrigues,0.4,0,3.9,0
+Venous thrombosis,De Gracia,0.4,0,4,0
+Venous thrombosis,Musquera (Contemporary HdC),0,0,100,0
+Venous thrombosis,Chan,0.4,0,3.9,0
+Venous thrombosis,Gutierrez-Zurimendi,0.4,0,3.9,0
+Venous thrombosis,Medina,0.4,0,4.2,0
+Venous thrombosis,Vigues,0.4,0,4.1,0
+Urinary complications (overall),(none — pooled with all studies),9.4,6,14.5,0
+Urinary complications (overall),Gil-Vernet (Historical HdC),10.6,5.8,18.4,0
+Urinary complications (overall),Paduch,9.6,6.1,14.9,0
+Urinary complications (overall),Rodrigues,9.6,6.1,14.8,0
+Urinary complications (overall),De Gracia,9.3,5.8,14.5,0
+Urinary complications (overall),Musquera (Contemporary HdC),7.7,4.2,13.9,0
+Urinary complications (overall),Chan,9.5,6,14.8,0
+Urinary complications (overall),Gutierrez-Zurimendi,9.5,6,14.8,0
+Urinary complications (overall),Medina,9.8,6.2,15.4,0
+Urinary complications (overall),Vigues,9.2,5.7,14.6,0
+Urinary fistula,(none — pooled with all studies),7.2,4.3,11.8,0
+Urinary fistula,Gil-Vernet (Historical HdC),7.7,3.8,15,0
+Urinary fistula,Paduch,7.3,4.3,12.2,0
+Urinary fistula,Rodrigues,7.3,4.3,12.1,0
+Urinary fistula,De Gracia,7.3,4.3,12.2,0
+Urinary fistula,Musquera (Contemporary HdC),6.1,3,11.9,0
+Urinary fistula,Chan,7.3,4.3,12.1,0
+Urinary fistula,Gutierrez-Zurimendi,7.3,4.3,12.1,0
+Urinary fistula,Medina,7.4,4.3,12.4,0
+Urinary fistula,Vigues,6.8,3.9,11.7,0
+Ureteric obstruction,(none — pooled with all studies),0.9,0.1,8,0
+Ureteric obstruction,Gil-Vernet (Historical HdC),2.1,0.5,7.9,0
+Ureteric obstruction,Paduch,1,0.1,8.7,0
+Ureteric obstruction,Rodrigues,1,0.1,8.7,0
+Ureteric obstruction,De Gracia,0.6,0,10.7,0
+Ureteric obstruction,Musquera (Contemporary HdC),0.2,0,73.3,0
+Ureteric obstruction,Chan,1,0.1,8.6,0
+Ureteric obstruction,Gutierrez-Zurimendi,1,0.1,8.6,0
+Ureteric obstruction,Medina,1.1,0.1,8.7,0
+Ureteric obstruction,Vigues,1,0.1,8.8,0
+Pancreatic fistula,(none — pooled with all studies),0.8,0.1,3.8,0
+Pancreatic fistula,Gil-Vernet (Historical HdC),0.6,0,16.3,0
+Pancreatic fistula,Paduch,0.8,0.1,4,0
+Pancreatic fistula,Rodrigues,0.8,0.1,4,0
+Pancreatic fistula,De Gracia,0.8,0.1,4,0
+Pancreatic fistula,Musquera (Contemporary HdC),1.1,0.2,5.7,0
+Pancreatic fistula,Chan,0.8,0.1,4,0
+Pancreatic fistula,Gutierrez-Zurimendi,0.8,0.1,4,0
+Pancreatic fistula,Medina,0.4,0,4.2,0
+Pancreatic fistula,Vigues,0.8,0.2,4.2,0
+Haemorrhagic complications,(none — pooled with all studies),0.9,0,21.5,0
+Haemorrhagic complications,Gil-Vernet (Historical HdC),2.1,0.1,27.3,0
+Haemorrhagic complications,Paduch,1,0,25.1,0
+Haemorrhagic complications,Rodrigues,1,0,24.9,0
+Haemorrhagic complications,De Gracia,0.4,0,22.8,0
+Haemorrhagic complications,Musquera (Contemporary HdC),1.8,0.1,27.4,0
+Haemorrhagic complications,Chan,0.4,0,29.9,0
+Haemorrhagic complications,Gutierrez-Zurimendi,0.9,0.9,1,0
+Haemorrhagic complications,Medina,0.3,0,47.6,0
+Haemorrhagic complications,Vigues,1.2,0,26.5,0
+Urolithiasis,(none — pooled with all studies),1.1,0.3,4.2,0
+Urolithiasis,Gil-Vernet (Historical HdC),0.7,0.1,7.1,0
+Urolithiasis,Paduch,1.2,0.3,4.4,0
+Urolithiasis,Rodrigues,1.1,0.3,4.4,0
+Urolithiasis,De Gracia,1.2,0.3,4.4,0
+Urolithiasis,Musquera (Contemporary HdC),1.1,0.2,5.7,0
+Urolithiasis,Chan,1.1,0.3,4.4,0
+Urolithiasis,Gutierrez-Zurimendi,1.1,0.3,4.4,0
+Urolithiasis,Medina,1.2,0.3,4.7,0
+Urolithiasis,Vigues,1.2,0.3,4.6,0
+Wound infection,(none — pooled with all studies),0.9,0,21.5,0
+Wound infection,Gil-Vernet (Historical HdC),2.1,0.1,27.3,0
+Wound infection,Paduch,1,0,25.1,0
+Wound infection,Rodrigues,1,0,24.9,0
+Wound infection,De Gracia,0.4,0,22.8,0
+Wound infection,Musquera (Contemporary HdC),1.8,0.1,27.4,0
+Wound infection,Chan,0.4,0,29.9,0
+Wound infection,Gutierrez-Zurimendi,0.9,0.9,1,0
+Wound infection,Medina,0.3,0,47.6,0
+Wound infection,Vigues,1.2,0,26.5,0
+Peri-graft fluid collection,(none — pooled with all studies),0.2,0,19.1,0
+Peri-graft fluid collection,Gil-Vernet (Historical HdC),0.6,0,16.3,0
+Peri-graft fluid collection,Paduch,0.2,0,21.4,0
+Peri-graft fluid collection,Rodrigues,0.2,0,21.4,0
+Peri-graft fluid collection,De Gracia,0.2,0,21.4,0
+Peri-graft fluid collection,Musquera (Contemporary HdC),0.4,0,16.2,0
+Peri-graft fluid collection,Chan,0.2,0,21.4,0
+Peri-graft fluid collection,Gutierrez-Zurimendi,0.2,0,21.4,0
+Peri-graft fluid collection,Medina,0,0,100,0
+Peri-graft fluid collection,Vigues,0.2,0,20.5,0
+Lymphocele,(none — pooled with all studies),0.2,0,19.1,0
+Lymphocele,Gil-Vernet (Historical HdC),0.6,0,16.3,0
+Lymphocele,Paduch,0.2,0,21.4,0
+Lymphocele,Rodrigues,0.2,0,21.4,0
+Lymphocele,De Gracia,0.2,0,21.4,0
+Lymphocele,Musquera (Contemporary HdC),0.4,0,16.2,0
+Lymphocele,Chan,0.2,0,21.4,0
+Lymphocele,Gutierrez-Zurimendi,0.2,0,21.4,0
+Lymphocele,Medina,0,0,100,0
+Lymphocele,Vigues,0.2,0,20.5,0

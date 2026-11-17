@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite the article and this repository."
+title: "Orthotopic kidney transplantation in adults: systematic review and meta-analysis — data and code"
+type: dataset
+authors:
+  - family-names: "Mendonça Rodrigues"
+    given-names: "Ricardo"
+    affiliation: "São João Local Health Unit, Porto, Portugal; Faculty of Medicine of the University of Porto (FMUP), Porto, Portugal"
+  - family-names: "Costa Silva"
+    given-names: "Alberto"
+    affiliation: "São João Local Health Unit, Porto, Portugal; Faculty of Medicine of the University of Porto (FMUP), Porto, Portugal"
+  - family-names: "Pina Vaz"
+    given-names: "Teresa"
+    affiliation: "São João Local Health Unit, Porto, Portugal; Faculty of Medicine of the University of Porto (FMUP), Porto, Portugal"
+  - family-names: "Antunes-Lopes"
+    given-names: "Tiago"
+    affiliation: "São João Local Health Unit, Porto, Portugal; Faculty of Medicine of the University of Porto (FMUP), Porto, Portugal"
+  - family-names: "Alturas Silva"
+    given-names: "João"
+    affiliation: "São João Local Health Unit, Porto, Portugal; Faculty of Medicine of the University of Porto (FMUP), Porto, Portugal"
+version: "1.0.0"
+date-released: "2026-11-17"
+license: MIT
+keywords:
+  - kidney transplantation
+  - orthotopic kidney transplantation
+  - systematic review
+  - meta-analysis
+  - PRISMA 2020
+identifiers:
+  - type: other
+    value: "PROSPERO CRD420261415834"
+    description: "PROSPERO registration of the review protocol"
